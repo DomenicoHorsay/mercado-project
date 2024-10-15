@@ -47,6 +47,18 @@ Com a implementação dessas funcionalidades, este projeto demonstra a aplicaç�
 <br>
 <br>
 Esse sistema serve como base para expandir funcionalidades no futuro, como autenticação de usuários, formas de pagamento e integração com plataformas de estoque, tornando-o escalável e pronto para desafios mais avançados.
+<br>
+<br>
+
+<h3 tabindex="-1" class="heading-element" dir="auto">Projeto em andamento: ⬇️</h3>
+<img src="https://github.com/user-attachments/assets/f5ef641b-4ad1-4b92-9991-528e92c52656" height="350px" width="650px">
+
+<br>
+<br>
+<h3 tabindex="-1" class="heading-element" dir="auto">Imagem do Projeto: ⬇️</h3>
+<img src="https://github.com/user-attachments/assets/d4de314b-0bf1-48a7-8379-bd15adcb2964" height="350px" width="650px">
+
+
 
 <h3 tabindex="-1" class="heading-element" dir="auto">👨‍💻  Programming Language used:</h3>
 
